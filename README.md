@@ -1,6 +1,7 @@
 # Autonomous Vehicle Simulation: Pedestrian Detection & Lane Following
 
-![Gazebo Simulation Screenshot](docs/images/gazebo_screenshot.png)  
+ ![image](https://github.com/user-attachments/assets/68b4c8a7-29aa-476d-b1fb-b78fc362e032)
+
 *Example of the rover navigating a curved lane with obstacle detection.*
 
 ## 📌 Overview
